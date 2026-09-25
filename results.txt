@@ -1,0 +1,10 @@
+FASTA SEQUENCE ANALYSIS
+
+-------------------------
+Sequence ID: MZ005317.1
+Sequence length: 327
+GC_content: 30.28 %
+A: 118
+C: 31
+G: 68
+T: 110
