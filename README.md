@@ -12,7 +12,7 @@ NCBI Nucleotide
 - PyCharm
 
 ## Input
-A DNA FASTA sequence of the human HBB gene obtained from NCBI.
+A DNA FASTA sequence of the Borreliella garinii HBB gene obtained from NCBI.
 
 ## Analysis Performed
 - Sequence identification
